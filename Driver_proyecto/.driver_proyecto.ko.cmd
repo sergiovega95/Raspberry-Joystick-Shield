@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/Driver_proyecto/driver_proyecto.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Documents/Driver_proyecto/driver_proyecto.ko /home/pi/Documents/Driver_proyecto/driver_proyecto.o /home/pi/Documents/Driver_proyecto/driver_proyecto.mod.o ;  true

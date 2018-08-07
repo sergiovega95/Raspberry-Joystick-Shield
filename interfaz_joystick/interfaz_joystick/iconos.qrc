@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>abajo.png</file>
+        <file>arriba.png</file>
+        <file>centro.png</file>
+        <file>derecha.png</file>
+        <file>izquierda.png</file>
+        <file>oprimido1.png</file>
+        <file>oprimido2.png</file>
+        <file>oprimidoA.png</file>
+        <file>oprimidoB.png</file>
+        <file>oprimidoX.png</file>
+        <file>oprimidoY.png</file>
+        <file>SuperN.png</file>
+        <file>WiiU_1.png</file>
+        <file>WiiU_2.png</file>
+        <file>WiiU_A.png</file>
+        <file>WiiU_B.png</file>
+        <file>WiiU_X.png</file>
+        <file>WiiU_Y.png</file>
+        <file>fondo.jpg</file>
+    </qresource>
+</RCC>
